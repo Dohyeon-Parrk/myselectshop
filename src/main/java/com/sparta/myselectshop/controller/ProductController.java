@@ -1,7 +1,5 @@
 package com.sparta.myselectshop.controller;
 
-import java.util.List;
-
 import org.springframework.data.domain.Page;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.GetMapping;
